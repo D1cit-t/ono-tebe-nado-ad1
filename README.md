@@ -3,7 +3,7 @@
 Проектная работа - одностраничный сайт для аукциона вещей, в существование которых никто не верил.
 
 ## Ссылка на репозиторий
-[https://github.com/Vadim5555555/ono-tebe-nado-ad1](https://github.com/D1cit-t/ono-tebe-nado-ad1.git)
+[https://github.com/Vadim5555555/ono-tebe-nado-ad1]([https://github.com/D1cit-t/ono-tebe-nado-ad1.git])
 
 ## Ссылка на GitHub Pages
 [https://vadim5555555.github.io/ono-tebe-nado-ad1/](https://vadim5555555.github.io/ono-tebe-nado-ad1/)
