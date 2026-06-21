@@ -6,7 +6,7 @@
 [https://github.com/D1cit-t/ono-tebe-nado-ad1.git](https://github.com/D1cit-t/ono-tebe-nado-ad1.git)
 
 ## Ссылка на GitHub Pages
-[https://vadim5555555.github.io/ono-tebe-nado-ad1/](https://vadim5555555.github.io/ono-tebe-nado-ad1/)
+[https://D1cit-t.github.io/ono-tebe-nado-ad1/](https://D1cit-t.github.io/ono-tebe-nado-ad1/)
 
 ## Описание проекта
 Проект представляет собой одностраничный сайт для аукциона вещей, в существование которых никто не верил. Сайт выполнен по макету из Figma и адаптирован для просмотра на различных устройствах.
